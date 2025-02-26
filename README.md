@@ -2,7 +2,7 @@
 - I’m interested in Mathematics, Statistics, Python, Machine Learning and Algorithms.
 - I’m currently learning to survive.
 - I’m looking to collaborate on open source projects.
-- Reach me via Telegram - https://t.me/august_1001
+- Reach me via Telegram - https://t.me/r1k1001
 - Fun fact : I use Arch, btw.
 
 <!---
